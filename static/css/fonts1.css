@@ -1,0 +1,11 @@
+@font-face {
+    font-family: SFUITextBold;
+    src: url(../fonts/SFUIText-Bold.eot);
+    src: url(../fonts/SFUIText-Bold.ttf);
+}
+
+@font-face {
+    font-family: SFUITextRegular;
+    src: url('SFProDisplay-RegularItalic.eot');
+    src: url(../fonts/SFUIText-Bold.ttf);
+}
